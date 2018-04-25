@@ -1,0 +1,7 @@
+com\jilit\controller\EmpController.class
+com\jilit\entity\Department.class
+com\jilit\dao\DepartmentRepository.class
+com\jilit\dao\EmpRepository.class
+com\jilit\entity\Emp.class
+com\jilit\RestApplication.class
+com\jilit\controller\DeptController.class
